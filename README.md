@@ -8,9 +8,7 @@
 </head>
 
 <body>
-  <div class='content'>
-    <img src='https://content.codecademy.com/courses/web-101/unit-4/htmlcss1-img_writer-avatar.jpg' class='writer-img'>
-    <h3 class='byline'>Article By: Jane Dover</h3>
+  <div class='content'>  
     <h1>How the Rise of Soccer in the US Is Changing the Face of Youth Sports</h1>
     <h2>The focus on soccer in youth sports programs is exploding nation-wide</h2>
     <p>When the first World Cup arrived in the US in the 90's everyone officially declared that soccer was it. Well it's taken it's time but we can definitely see the influence of soccer, especially women's soccer, across the US. This year, 3 million kids
